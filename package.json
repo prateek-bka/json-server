@@ -1,0 +1,24 @@
+{
+  "name": "json-hotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-bka/json-hotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek-bka/json-hotel/issues"
+  },
+  "homepage": "https://github.com/prateek-bka/json-hotel#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

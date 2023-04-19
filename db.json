@@ -1,0 +1,28 @@
+{
+  "room": [
+    {
+      "room_category": "family",
+      "room_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYHHcPvEa26VlAB7ApY_V_MqlNleQ_lNCjq3A8q0iVQ&s",
+      "room_type": "non_ac",
+      "room_bed": "single"
+    },
+    {
+      "room_category": "family",
+      "room_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bx8eyV0z-3YZj7iXVcjo4flFTvMoPbKSZ9clwsXcJQ&s",
+      "room_type": "ac",
+      "room_bed": "double"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1"
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
