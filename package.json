@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/prateek-bka/json-hotel#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.3"
   }
 }
