@@ -1,5 +1,51 @@
 {
-  "cars": [],
+  "cars": [
+    {
+      "brand": "mahindra",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1500",
+      "description": "Mahindra Top Model",
+      "price": "48478",
+      "id": 1
+    },
+    {
+      "brand": "tata",
+      "type": "automated",
+      "year": "2022",
+      "kms": "9450",
+      "description": "Tata Top Model",
+      "price": "157200",
+      "id": 2
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": "1780",
+      "description": "Tata Top Model Manual",
+      "price": "857200",
+      "id": 3
+    },
+    {
+      "brand": "honda",
+      "type": "automated",
+      "year": "2018",
+      "kms": "75110",
+      "description": "Honda Top Model Automatic",
+      "price": "742110",
+      "id": 4
+    },
+    {
+      "brand": "honda",
+      "type": "manual",
+      "year": "2021",
+      "kms": "9561",
+      "description": "Honda Top Model Manual",
+      "price": "450110",
+      "id": 5
+    }
+  ],
 
   "users": [
     {
