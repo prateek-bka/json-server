@@ -44,6 +44,51 @@
       "description": "Honda Top Model Manual",
       "price": "450110",
       "id": 5
+    },
+    {
+      "brand": "mahindra",
+      "type": "manual",
+      "year": "2022",
+      "kms": "19155",
+      "description": "Mahindra Top Model Car",
+      "price": "81471",
+      "id": 6
+    },
+    {
+      "brand": "tata",
+      "type": "automated",
+      "year": "2020",
+      "kms": "69410",
+      "description": "Tata Top Model Car",
+      "price": "507200",
+      "id": 7
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2023",
+      "kms": "17117",
+      "description": "Tata Top Model Car",
+      "price": "942290",
+      "id": 8
+    },
+    {
+      "brand": "honda",
+      "type": "automated",
+      "year": "2022",
+      "kms": "75150",
+      "description": "Honda Top Model Automatic Car",
+      "price": "742110",
+      "id": 9
+    },
+    {
+      "brand": "honda",
+      "type": "manual",
+      "year": "2023",
+      "kms": "44112",
+      "description": "Honda Top Model Manual Car",
+      "price": "950100",
+      "id": 10
     }
   ],
 
